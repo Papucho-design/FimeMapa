@@ -1,0 +1,51 @@
+@import "@fontsource-variable/inter";
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --color-fime-green: #006837;
+  --color-fime-gold: #f59e0b;
+  --color-fime-route: #2563eb;
+}
+
+/* Tailwind 4 usa currentColor en bordes por defecto; se conserva el gris de v3. */
+@layer base {
+  *,
+  ::after,
+  ::before {
+    border-color: var(--color-slate-200);
+  }
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased selection:bg-emerald-500 selection:text-white touch-manipulation;
+  }
+  button:not(:disabled),
+  [role='button'] {
+    cursor: pointer;
+  }
+}
+
+/* Mapa: transiciones y ruta animada */
+.map-building {
+  transition: all 0.2s ease-in-out;
+}
+.map-building:hover {
+  cursor: pointer;
+  filter: brightness(1.1);
+}
+
+.route-dash {
+  stroke-dasharray: 8;
+  animation: dash 1.5s linear infinite;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: -16;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-dash {
+    animation: none;
+  }
+}

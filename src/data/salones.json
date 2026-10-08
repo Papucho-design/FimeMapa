@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "1101",
+    "displayName": "1-101",
+    "building": "1",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1102",
+    "displayName": "1-102",
+    "building": "1",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1103",
+    "displayName": "1-103",
+    "building": "1",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1104",
+    "displayName": "1-104",
+    "building": "1",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1105",
+    "displayName": "1-105",
+    "building": "1",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1201",
+    "displayName": "1-201",
+    "building": "1",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1202",
+    "displayName": "1-202",
+    "building": "1",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1203",
+    "displayName": "1-203",
+    "building": "1",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1204",
+    "displayName": "1-204",
+    "building": "1",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1205",
+    "displayName": "1-205",
+    "building": "1",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1301",
+    "displayName": "1-301",
+    "building": "1",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1302",
+    "displayName": "1-302",
+    "building": "1",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1303",
+    "displayName": "1-303",
+    "building": "1",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1304",
+    "displayName": "1-304",
+    "building": "1",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "1305",
+    "displayName": "1-305",
+    "building": "1",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2101",
+    "displayName": "2-101",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false,
+    "photo": "img/salones/2/2101.webp"
+  },
+  {
+    "id": "2102",
+    "displayName": "2-102",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2103",
+    "displayName": "2-103",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2104",
+    "displayName": "2-104",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2105",
+    "displayName": "2-105",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2106",
+    "displayName": "2-106",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2107",
+    "displayName": "2-107",
+    "building": "2",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false,
+    "notes": "Primer piso del Edificio 2"
+  },
+  {
+    "id": "2201",
+    "displayName": "2-201",
+    "building": "2",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2202",
+    "displayName": "2-202",
+    "building": "2",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2203",
+    "displayName": "2-203",
+    "building": "2",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2204",
+    "displayName": "2-204",
+    "building": "2",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2205",
+    "displayName": "2-205",
+    "building": "2",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2300",
+    "displayName": "2-300",
+    "building": "2",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2301",
+    "displayName": "2-301",
+    "building": "2",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false,
+    "notes": "Tercer piso del Edificio 2"
+  },
+  {
+    "id": "2303",
+    "displayName": "2-303",
+    "building": "2",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "2304",
+    "displayName": "2-304",
+    "building": "2",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3101",
+    "displayName": "3-101",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3102",
+    "displayName": "3-102",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3103",
+    "displayName": "3-103",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3104",
+    "displayName": "3-104",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3105",
+    "displayName": "3-105",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3106",
+    "displayName": "3-106",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3107",
+    "displayName": "3-107",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3108",
+    "displayName": "3-108",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3109",
+    "displayName": "3-109",
+    "building": "3",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3201",
+    "displayName": "3-201",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3202",
+    "displayName": "3-202",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3203",
+    "displayName": "3-203",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3204",
+    "displayName": "3-204",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3205",
+    "displayName": "3-205",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3206",
+    "displayName": "3-206",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3207",
+    "displayName": "3-207",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3208",
+    "displayName": "3-208",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3209",
+    "displayName": "3-209",
+    "building": "3",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3301",
+    "displayName": "3-301",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false,
+    "notes": "Tercer piso del Edificio 3"
+  },
+  {
+    "id": "3302",
+    "displayName": "3-302",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3303",
+    "displayName": "3-303",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3304",
+    "displayName": "3-304",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3305",
+    "displayName": "3-305",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3306",
+    "displayName": "3-306",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3307",
+    "displayName": "3-307",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3308",
+    "displayName": "3-308",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "3309",
+    "displayName": "3-309",
+    "building": "3",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4100",
+    "displayName": "4-100",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false,
+    "notes": "Primer piso del Edificio 4"
+  },
+  {
+    "id": "4102",
+    "displayName": "4-102",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4103",
+    "displayName": "4-103",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4105",
+    "displayName": "4-105",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4106",
+    "displayName": "4-106",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4107",
+    "displayName": "4-107",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4108",
+    "displayName": "4-108",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4109",
+    "displayName": "4-109",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4110",
+    "displayName": "4-110",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4111",
+    "displayName": "4-111",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4112",
+    "displayName": "4-112",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4113",
+    "displayName": "4-113",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4200",
+    "displayName": "4-200",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4201",
+    "displayName": "4-201",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4202",
+    "displayName": "4-202",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4203",
+    "displayName": "4-203",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4204",
+    "displayName": "4-204",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4205",
+    "displayName": "4-205",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4206",
+    "displayName": "4-206",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4207",
+    "displayName": "4-207",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4208",
+    "displayName": "4-208",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4211",
+    "displayName": "4-211",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4212",
+    "displayName": "4-212",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "4213",
+    "displayName": "4-213",
+    "building": "4",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5000",
+    "displayName": "5-000",
+    "building": "5",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": false,
+    "notes": "Laboratorio en Edificio 5"
+  },
+  {
+    "id": "5001",
+    "displayName": "5-001",
+    "building": "5",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Mecatrónica / Automatización"
+  },
+  {
+    "id": "5002",
+    "displayName": "5-002",
+    "building": "5",
+    "floor": 0,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5101",
+    "displayName": "5-101",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5102",
+    "displayName": "5-102",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5105",
+    "displayName": "5-105",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5106",
+    "displayName": "5-106",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5108",
+    "displayName": "5-108",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "5111",
+    "displayName": "5-111",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false,
+    "photo": "img/salones/5/5111.webp"
+  },
+  {
+    "id": "6100",
+    "displayName": "6100",
+    "building": "6",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "6201",
+    "displayName": "6-201",
+    "building": "6",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6202",
+    "displayName": "6-202",
+    "building": "6",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6300",
+    "displayName": "6-300",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6301",
+    "displayName": "6-301",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6302",
+    "displayName": "6-302",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6303",
+    "displayName": "6-303",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6304",
+    "displayName": "6-304",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6305",
+    "displayName": "6-305",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6306",
+    "displayName": "6-306",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6307",
+    "displayName": "6-307",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6308",
+    "displayName": "6-308",
+    "building": "6",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "6F11",
+    "displayName": "6F11",
+    "building": "6",
+    "floor": 1,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física I - Piso 1"
+  },
+  {
+    "id": "6F12",
+    "displayName": "6F12",
+    "building": "6",
+    "floor": 1,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física I"
+  },
+  {
+    "id": "6F21",
+    "displayName": "6F21",
+    "building": "6",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física II - Piso 2"
+  },
+  {
+    "id": "6F22",
+    "displayName": "6F22",
+    "building": "6",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": false
+  },
+  {
+    "id": "6F31",
+    "displayName": "6F31",
+    "building": "6",
+    "floor": 3,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física III - Piso 3"
+  },
+  {
+    "id": "6F41",
+    "displayName": "6F41",
+    "building": "6",
+    "floor": 4,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física IV - Piso 4"
+  },
+  {
+    "id": "7101",
+    "displayName": "7-101",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7102",
+    "displayName": "7-102",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7103",
+    "displayName": "7-103",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7104",
+    "displayName": "7-104",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7105",
+    "displayName": "7-105",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7106",
+    "displayName": "7-106",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7107",
+    "displayName": "7-107",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7108",
+    "displayName": "7-108",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7111",
+    "displayName": "7-111",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7116",
+    "displayName": "7-116",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7117",
+    "displayName": "7-117",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7118",
+    "displayName": "7-118",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7119",
+    "displayName": "7-119",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7120",
+    "displayName": "7-120",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7121",
+    "displayName": "7-121",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7125",
+    "displayName": "7-125",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7201",
+    "displayName": "7-201",
+    "building": "7",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7202",
+    "displayName": "7-202",
+    "building": "7",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7203",
+    "displayName": "7-203",
+    "building": "7",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7204",
+    "displayName": "7-204",
+    "building": "7",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "7213",
+    "displayName": "7-213",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "7214",
+    "displayName": "7-214",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "7215",
+    "displayName": "7-215",
+    "building": "7",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false,
+    "notes": "Segundo piso del Edificio 7"
+  },
+  {
+    "id": "7222",
+    "displayName": "7-222",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "7223",
+    "displayName": "7-223",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "7224",
+    "displayName": "7-224",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "7225",
+    "displayName": "7-225",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": false
+  },
+  {
+    "id": "AUDITORIO-7",
+    "displayName": "Auditorio",
+    "building": "7",
+    "floor": 2,
+    "type": "auditorium",
+    "verified": false,
+    "name": "Auditorio Ing. Remberto Sánchez Díaz",
+    "notes": "Se encuentra en la parte posterior del edificio, se requiere cruzar un edificio",
+    "tags": [
+      "auditorio",
+      "remberto sánchez"
+    ]
+  },
+  {
+    "id": "8300",
+    "displayName": "8-300",
+    "building": "8",
+    "floor": 3,
+    "type": "computer-lab",
+    "verified": false,
+    "name": "Laboratorio de Redes y Computación",
+    "notes": "Pendiente de confirmar: el registro original lo ubicaba en CIDET y también en Edificio 8.",
+    "tags": [
+      "lab redes",
+      "redes",
+      "computación"
+    ]
+  },
+  {
+    "id": "9001",
+    "displayName": "9-001",
+    "building": "9",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9102",
+    "displayName": "9-102",
+    "building": "9",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9103",
+    "displayName": "9-103",
+    "building": "9",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9104",
+    "displayName": "9-104",
+    "building": "9",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9105",
+    "displayName": "9-105",
+    "building": "9",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9201",
+    "displayName": "9-201",
+    "building": "9",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9202",
+    "displayName": "9-202",
+    "building": "9",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9203",
+    "displayName": "9-203",
+    "building": "9",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9204",
+    "displayName": "9-204",
+    "building": "9",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9205",
+    "displayName": "9-205",
+    "building": "9",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9301",
+    "displayName": "9-301",
+    "building": "9",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9303",
+    "displayName": "9-303",
+    "building": "9",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "9304",
+    "displayName": "9-304",
+    "building": "9",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11202",
+    "displayName": "11-202",
+    "building": "11",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11203",
+    "displayName": "11-203",
+    "building": "11",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11204",
+    "displayName": "11-204",
+    "building": "11",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11205",
+    "displayName": "11-205",
+    "building": "11",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11301",
+    "displayName": "11-301",
+    "building": "11",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11302",
+    "displayName": "11-302",
+    "building": "11",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "11304",
+    "displayName": "11-304",
+    "building": "11",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12201",
+    "displayName": "12-201",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12202",
+    "displayName": "12-202",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": true,
+    "notes": "Aula en Edificio 12 (Biblioteca) - Ubicación confirmada"
+  },
+  {
+    "id": "12203",
+    "displayName": "12-203",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12204",
+    "displayName": "12-204",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12205",
+    "displayName": "12-205",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12206",
+    "displayName": "12-206",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12207",
+    "displayName": "12-207",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  },
+  {
+    "id": "12208",
+    "displayName": "12-208",
+    "building": "12",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false
+  }
+]
