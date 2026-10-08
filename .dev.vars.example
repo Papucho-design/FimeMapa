@@ -1,0 +1,6 @@
+# Copia este archivo a .dev.vars para probar las funciones con `npm run cf:dev`.
+GITHUB_TOKEN=github_pat_xxxxxxxxxxxxxxxxxxxxxxxx
+ADMIN_PASSWORD=una-contraseña-larga
+REPO_OWNER=tu-usuario
+REPO_NAME=ubicfime
+BRANCH=main
