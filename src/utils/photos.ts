@@ -5,6 +5,15 @@ export function roomPhotoUrl(photo?: string): string | undefined {
   return `/${photo}`;
 }
 
+/** Retorna la URL de fallback en GitHub raw para fotos recién subidas que aún no están en la compilación estática. */
+export function roomPhotoFallbackUrl(photo?: string): string | undefined {
+  if (!photo) return undefined;
+  if (/^(https?:|data:|blob:)/i.test(photo)) return undefined;
+  const path = photo.startsWith('/') ? photo.slice(1) : photo;
+  return `https://raw.githubusercontent.com/Papucho-design/FimeMapa/main/public/${path}`;
+}
+
+
 const MAX_SIDE = 800;
 const WEBP_QUALITY = 0.8;
 

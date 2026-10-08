@@ -131,6 +131,11 @@ export const StepNavigation: React.FC<StepNavigationProps> = ({
                 <img
                   src={currentStep.photoUrl}
                   alt={currentStep.title}
+                  onError={(e) => {
+                    if (currentStep.photoFallbackUrl && e.currentTarget.src !== currentStep.photoFallbackUrl) {
+                      e.currentTarget.src = currentStep.photoFallbackUrl;
+                    }
+                  }}
                   className="w-full h-36 object-cover rounded-xl shadow-sm border border-slate-200"
                 />
                 <p className="text-[11px] font-semibold text-slate-500 text-center">

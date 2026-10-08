@@ -86,6 +86,7 @@ export interface NavigationStep {
   instruction: string;
   nodeId: string;
   photoUrl?: string;
+  photoFallbackUrl?: string;
   photoCaption?: string;
   landmarkName?: string;
   floorInfo?: string;

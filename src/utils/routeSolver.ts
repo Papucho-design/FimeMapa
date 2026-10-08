@@ -3,7 +3,7 @@ import { BUILDINGS } from '../data/buildings';
 import { getPhotoForTarget } from '../data/photos';
 import type { NavigationStep, Room } from '../types';
 import { floorWords } from './floors';
-import { roomPhotoUrl } from './photos';
+import { roomPhotoUrl, roomPhotoFallbackUrl } from './photos';
 
 /**
  * Resolves the shortest path from startNodeId to the entrance node of the target building.
@@ -201,6 +201,7 @@ export function solveRoute(
         : `Avanza por el pasillo y busca la placa del salón ${targetRoomName}.${preliminary}`,
       nodeId: targetNode.id,
       photoUrl: roomPhotoUrl(room?.photo),
+      photoFallbackUrl: roomPhotoFallbackUrl(room?.photo),
       photoCaption: room?.photo ? `Así se ve el salón ${targetRoomName}` : undefined,
       isDestination: true,
     });
