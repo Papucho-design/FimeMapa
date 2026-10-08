@@ -4,7 +4,7 @@ import { ROUTE_NODES } from '../data/routes';
 import { ROOM_TYPE_LABEL } from '../data/roomTypes';
 import { BUILDINGS } from '../data/buildings';
 import { floorLabel } from '../utils/floors';
-import { roomPhotoUrl } from '../utils/photos';
+import { roomPhotoUrl, roomPhotoFallbackUrl } from '../utils/photos';
 import {
   Clock, MapPin, CheckCircle2, AlertCircle, ArrowLeft, Search, Navigation, Star, Flag, ChevronRight, Info,
 } from 'lucide-react';
@@ -97,6 +97,7 @@ export const SearchResultCard: React.FC<SearchResultCardProps> = ({
   const isBuilding = kind === 'building';
   const title = room ? room.displayName : result.normalizedQuery;
   const photo = roomPhotoUrl(room?.photo);
+  const photoFallback = roomPhotoFallbackUrl(room?.photo);
 
   return (
     <div className="w-full max-w-md mx-auto px-4 py-6 space-y-5">
@@ -114,6 +115,11 @@ export const SearchResultCard: React.FC<SearchResultCardProps> = ({
             src={photo}
             alt={`Foto del salón ${title}`}
             loading="lazy"
+            onError={(e) => {
+              if (photoFallback && e.currentTarget.src !== photoFallback) {
+                e.currentTarget.src = photoFallback;
+              }
+            }}
             className="w-full h-44 object-cover bg-slate-100"
           />
         )}
