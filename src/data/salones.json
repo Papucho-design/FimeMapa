@@ -546,7 +546,9 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "updatedAt": "2026-10-08T01:15:04.459Z",
+    "photo": "img/salones/4/4111-muyugt5j.webp"
   },
   {
     "id": "4112",
@@ -736,6 +738,59 @@
     "photo": "img/salones/5/5111.webp"
   },
   {
+    "id": "6F11",
+    "displayName": "6F11",
+    "building": "6",
+    "floor": 1,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física I - Piso 1"
+  },
+  {
+    "id": "6F12",
+    "displayName": "6F12",
+    "building": "6",
+    "floor": 1,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física I"
+  },
+  {
+    "id": "6F21",
+    "displayName": "6F21",
+    "building": "6",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física II - Piso 2"
+  },
+  {
+    "id": "6F22",
+    "displayName": "6F22",
+    "building": "6",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": false
+  },
+  {
+    "id": "6F31",
+    "displayName": "6F31",
+    "building": "6",
+    "floor": 3,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física III - Piso 3"
+  },
+  {
+    "id": "6F41",
+    "displayName": "6F41",
+    "building": "6",
+    "floor": 4,
+    "type": "physics-laboratory",
+    "verified": false,
+    "notes": "Laboratorio de Física IV - Piso 4"
+  },
+  {
     "id": "6100",
     "displayName": "6100",
     "building": "6",
@@ -830,59 +885,6 @@
     "floor": 3,
     "type": "classroom",
     "verified": false
-  },
-  {
-    "id": "6F11",
-    "displayName": "6F11",
-    "building": "6",
-    "floor": 1,
-    "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física I - Piso 1"
-  },
-  {
-    "id": "6F12",
-    "displayName": "6F12",
-    "building": "6",
-    "floor": 1,
-    "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física I"
-  },
-  {
-    "id": "6F21",
-    "displayName": "6F21",
-    "building": "6",
-    "floor": 2,
-    "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física II - Piso 2"
-  },
-  {
-    "id": "6F22",
-    "displayName": "6F22",
-    "building": "6",
-    "floor": 2,
-    "type": "physics-laboratory",
-    "verified": false
-  },
-  {
-    "id": "6F31",
-    "displayName": "6F31",
-    "building": "6",
-    "floor": 3,
-    "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física III - Piso 3"
-  },
-  {
-    "id": "6F41",
-    "displayName": "6F41",
-    "building": "6",
-    "floor": 4,
-    "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física IV - Piso 4"
   },
   {
     "id": "7101",
