@@ -473,8 +473,10 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false,
-    "notes": "Primer piso del Edificio 4"
+    "verified": true,
+    "notes": "Primer piso del Edificio 4",
+    "updatedAt": "2026-10-08T02:49:06.625Z",
+    "photo": "img/salones/4/4100-muyxtqii.webp"
   },
   {
     "id": "4102",
