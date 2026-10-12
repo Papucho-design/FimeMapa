@@ -271,7 +271,9 @@
     "building": "2",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "updatedAt": "2026-10-12T07:05:14.132Z",
+    "photo": "img/salones/2/2304-mv4wqj1s.webp"
   },
   {
     "id": "3101",
