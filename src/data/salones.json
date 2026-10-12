@@ -251,7 +251,9 @@
     "floor": 3,
     "type": "classroom",
     "verified": false,
-    "notes": "Tercer piso del Edificio 2"
+    "notes": "Tercer piso del Edificio 2",
+    "updatedAt": "2026-10-12T07:02:28.073Z",
+    "photo": "img/salones/2/2301-mv4wmysu.webp"
   },
   {
     "id": "2303",
