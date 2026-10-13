@@ -349,7 +349,10 @@
     "building": "3",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Al fondo del pasillo entre el edificio 3 y 9.",
+    "updatedAt": "2026-10-13T19:17:14.492Z",
+    "photo": "img/salones/3/3109-mv72bqge.webp"
   },
   {
     "id": "3201",
