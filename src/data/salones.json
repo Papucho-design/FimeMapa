@@ -186,7 +186,9 @@
     "floor": 1,
     "type": "classroom",
     "verified": false,
-    "notes": "Primer piso del Edificio 2"
+    "notes": "Primer piso del Edificio 2",
+    "updatedAt": "2026-10-13T03:49:14.726Z",
+    "photo": "img/salones/2/2107-mv656bju.webp"
   },
   {
     "id": "2201",
