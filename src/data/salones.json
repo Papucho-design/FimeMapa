@@ -811,6 +811,18 @@
     "photo": "img/salones/5/5111.webp"
   },
   {
+    "id": "LMD1",
+    "displayName": "LMD1",
+    "building": "5",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": false,
+    "name": "Laboratorio de Manufactura Digital",
+    "notes": "Pasillo edificio 5",
+    "updatedAt": "2026-10-14T17:24:45.675Z",
+    "photo": "img/salones/5/lmd1-mv8dqy1w.webp"
+  },
+  {
     "id": "6F11",
     "displayName": "6F11",
     "building": "6",
