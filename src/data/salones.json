@@ -738,7 +738,10 @@
     "floor": 0,
     "type": "laboratory",
     "verified": false,
-    "notes": "Laboratorio en Edificio 5"
+    "name": "Laboratorio de Mecánica de Fluidos",
+    "notes": "Laboratorio en Edificio 5",
+    "updatedAt": "2026-10-14T17:27:05.838Z",
+    "photo": "img/salones/5/5000-mv8dty4k.webp"
   },
   {
     "id": "5001",
