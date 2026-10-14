@@ -721,6 +721,17 @@
     "photo": "img/salones/4/4213-mv4xek5y.webp"
   },
   {
+    "id": "5-LVIS",
+    "displayName": "LVIS",
+    "building": "5",
+    "floor": 1,
+    "type": "classroom",
+    "verified": false,
+    "notes": "El primer salón al abrir la puerta de frente llegando por cafetería",
+    "updatedAt": "2026-10-14T17:19:53.033Z",
+    "photo": "img/salones/5/5-lvis-mv8dko9h.webp"
+  },
+  {
     "id": "5000",
     "displayName": "5-000",
     "building": "5",
