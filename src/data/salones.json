@@ -833,6 +833,17 @@
     "photo": "img/salones/5/lmd1-mv8dqy1w.webp"
   },
   {
+    "id": "LROB",
+    "displayName": "LROB",
+    "building": "5",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": false,
+    "notes": "Pasillo del edificio 5, enfrente del 5106",
+    "updatedAt": "2026-10-14T22:39:34.988Z",
+    "photo": "img/salones/5/lrob-mv8ozst9.webp"
+  },
+  {
     "id": "6F11",
     "displayName": "6F11",
     "building": "6",
