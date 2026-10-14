@@ -761,7 +761,10 @@
     "building": "5",
     "floor": 0,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "name": "Laboratorio de Potencia Fluida",
+    "updatedAt": "2026-10-14T22:40:25.858Z",
+    "photo": "img/salones/5/5002-mv8p0w75.webp"
   },
   {
     "id": "5101",
