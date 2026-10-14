@@ -787,7 +787,11 @@
     "building": "5",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "name": "Laboratorio de Termodinámica Básica",
+    "notes": "Pasillo edificio 5",
+    "updatedAt": "2026-10-14T17:22:29.670Z",
+    "photo": "img/salones/5/5106-mv8do14n.webp"
   },
   {
     "id": "5108",
