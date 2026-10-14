@@ -750,7 +750,10 @@
     "floor": 0,
     "type": "laboratory",
     "verified": false,
-    "notes": "Laboratorio de Mecatrónica / Automatización"
+    "name": "Laboratorio de Turbo maquinaria",
+    "notes": "Laboratorio de Mecatrónica / Automatización",
+    "updatedAt": "2026-10-14T17:30:31.594Z",
+    "photo": "img/salones/5/5001-mv8dycg1.webp"
   },
   {
     "id": "5002",
