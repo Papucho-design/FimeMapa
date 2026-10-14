@@ -767,10 +767,7 @@
     "floor": 1,
     "type": "classroom",
     "verified": false,
-    "name": "Laboratorio de Turbomaquinaria",
-    "notes": "Pasillo del edificio 5",
-    "updatedAt": "2026-10-14T17:27:59.897Z",
-    "photo": "img/salones/5/5101-mv8dv2vy.webp"
+    "updatedAt": "2026-10-14T17:28:45.028Z"
   },
   {
     "id": "5102",
