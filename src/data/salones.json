@@ -1497,7 +1497,8 @@
     "floor": 2,
     "type": "classroom",
     "verified": true,
-    "notes": "Aula en Edificio 12 (Biblioteca) - Ubicación confirmada"
+    "updatedAt": "2026-10-15T16:11:33.970Z",
+    "photo": "img/salones/12/12202-mv9qko3t.webp"
   },
   {
     "id": "12203",
