@@ -1586,6 +1586,22 @@
     "photo": "img/salones/12/12tej-mv9qw8i6.webp"
   },
   {
+    "id": "123D",
+    "displayName": "12.3D",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Diseño 3D",
+    "tags": [
+      "lab",
+      "diseño",
+      "3d"
+    ],
+    "updatedAt": "2026-10-15T16:30:36.224Z",
+    "photo": "img/salones/12/123d-mv9r95h8.webp"
+  },
+  {
     "id": "12201",
     "displayName": "12-201",
     "building": "12",
