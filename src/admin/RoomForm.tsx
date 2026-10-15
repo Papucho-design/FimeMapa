@@ -225,8 +225,8 @@ export const RoomForm: React.FC<RoomFormProps> = ({ initial, existingIds, saving
       <div className="space-y-2">
         <span className="block text-xs font-bold text-slate-700">Foto (se comprime a WebP, máx. 800 px)</span>
         {photoPreview ? (
-          <div className="relative">
-            <img src={photoPreview} alt="Vista previa" className="w-full h-44 object-cover rounded-xl border border-slate-200" />
+          <div className="relative bg-slate-900/5 rounded-xl border border-slate-200 overflow-hidden flex items-center justify-center">
+            <img src={photoPreview} alt="Vista previa" className="w-full max-h-56 object-contain" />
             <button
               type="button"
               onClick={clearPhoto}

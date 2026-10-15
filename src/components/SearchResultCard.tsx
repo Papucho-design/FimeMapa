@@ -111,17 +111,19 @@ export const SearchResultCard: React.FC<SearchResultCardProps> = ({
 
       <div className="bg-white rounded-3xl shadow-md border border-slate-200/80 overflow-hidden">
         {photo && (
-          <img
-            src={photo}
-            alt={`Foto del salón ${title}`}
-            loading="lazy"
-            onError={(e) => {
-              if (photoFallback && e.currentTarget.src !== photoFallback) {
-                e.currentTarget.src = photoFallback;
-              }
-            }}
-            className="w-full h-44 object-cover bg-slate-100"
-          />
+          <div className="w-full bg-slate-900/5 flex items-center justify-center border-b border-slate-100">
+            <img
+              src={photo}
+              alt={`Foto del salón ${title}`}
+              loading="lazy"
+              onError={(e) => {
+                if (photoFallback && e.currentTarget.src !== photoFallback) {
+                  e.currentTarget.src = photoFallback;
+                }
+              }}
+              className="w-full max-h-64 object-contain"
+            />
+          </div>
         )}
 
         <div className="p-6 space-y-5">

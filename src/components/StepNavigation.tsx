@@ -128,16 +128,18 @@ export const StepNavigation: React.FC<StepNavigationProps> = ({
 
             {showPhotoModal && (
               <div className="bg-slate-50 rounded-2xl p-2.5 border border-slate-200 space-y-1.5">
-                <img
-                  src={currentStep.photoUrl}
-                  alt={currentStep.title}
-                  onError={(e) => {
-                    if (currentStep.photoFallbackUrl && e.currentTarget.src !== currentStep.photoFallbackUrl) {
-                      e.currentTarget.src = currentStep.photoFallbackUrl;
-                    }
-                  }}
-                  className="w-full h-36 object-cover rounded-xl shadow-sm border border-slate-200"
-                />
+                <div className="w-full bg-slate-900/5 rounded-xl overflow-hidden flex items-center justify-center border border-slate-200">
+                  <img
+                    src={currentStep.photoUrl}
+                    alt={currentStep.title}
+                    onError={(e) => {
+                      if (currentStep.photoFallbackUrl && e.currentTarget.src !== currentStep.photoFallbackUrl) {
+                        e.currentTarget.src = currentStep.photoFallbackUrl;
+                      }
+                    }}
+                    className="w-full max-h-56 object-contain"
+                  />
+                </div>
                 <p className="text-[11px] font-semibold text-slate-500 text-center">
                   📷 {currentStep.photoCaption || 'Foto de referencia de las instalaciones'}
                 </p>

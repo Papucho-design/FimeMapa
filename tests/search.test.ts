@@ -31,7 +31,7 @@ describe('resolveQuery', () => {
       const r = resolveQuery(q, rooms, index);
       expect(r.kind, q).toBe('suggestions');
     }
-    const redes = resolveQuery('laboratorio redes', rooms, index);
+    const redes = resolveQuery('lab redes', rooms, index);
     expect(redes.kind === 'suggestions' && redes.rooms[0].id).toBe('8300');
   });
 
