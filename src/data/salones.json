@@ -1511,6 +1511,21 @@
     "photo": "img/salones/12/12neu-mv9qqq67.webp"
   },
   {
+    "id": "12TEJ",
+    "displayName": "12TEJ",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Ingeniería de Tejido",
+    "tags": [
+      "lab",
+      "tejido"
+    ],
+    "updatedAt": "2026-10-15T16:20:33.842Z",
+    "photo": "img/salones/12/12tej-mv9qw8i6.webp"
+  },
+  {
     "id": "12201",
     "displayName": "12-201",
     "building": "12",
