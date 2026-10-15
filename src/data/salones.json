@@ -1496,6 +1496,21 @@
     "photo": "img/salones/12/12bdi-mv9qtfs3.webp"
   },
   {
+    "id": "12BLC",
+    "displayName": "12BLC",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Bioelectrónica",
+    "tags": [
+      "lab",
+      "bioelectrónica"
+    ],
+    "updatedAt": "2026-10-15T16:28:52.814Z",
+    "photo": "img/salones/12/12blc-mv9r6xox.webp"
+  },
+  {
     "id": "12BMI",
     "displayName": "12BMI",
     "building": "12",
