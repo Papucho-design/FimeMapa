@@ -378,7 +378,10 @@
     "building": "3",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Primer salón al subir las escaleras al segundo piso del edificio 3.",
+    "updatedAt": "2026-10-15T15:40:51.219Z",
+    "photo": "img/salones/3/3201-mv9ph5vi.webp"
   },
   {
     "id": "3202",
