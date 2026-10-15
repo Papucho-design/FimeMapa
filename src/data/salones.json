@@ -1526,6 +1526,21 @@
     "photo": "img/salones/12/12fot-mv9qyurq.webp"
   },
   {
+    "id": "12MTC",
+    "displayName": "12MTC",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Mecatrónica",
+    "tags": [
+      "lab",
+      "mecatrónica"
+    ],
+    "updatedAt": "2026-10-15T16:25:38.346Z",
+    "photo": "img/salones/12/12mtc-mv9r2que.webp"
+  },
+  {
     "id": "12NEU",
     "displayName": "12NEU",
     "building": "12",
