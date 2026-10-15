@@ -1541,6 +1541,22 @@
     "photo": "img/salones/12/12fot-mv9qyurq.webp"
   },
   {
+    "id": "12LIA",
+    "displayName": "12LIA",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Inteligencia Artificial",
+    "tags": [
+      "lab",
+      "inteligencia",
+      "artificial"
+    ],
+    "updatedAt": "2026-10-15T16:32:22.219Z",
+    "photo": "img/salones/12/12lia-mv9rbf7z.webp"
+  },
+  {
     "id": "12MTC",
     "displayName": "12MTC",
     "building": "12",
