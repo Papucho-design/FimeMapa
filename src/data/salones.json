@@ -555,7 +555,10 @@
     "building": "3",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Ultimo salón al fondo del tercer piso.",
+    "updatedAt": "2026-10-15T16:08:31.128Z",
+    "photo": "img/salones/3/3309-mv9qgq6m.webp"
   },
   {
     "id": "4100",
