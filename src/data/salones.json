@@ -472,8 +472,10 @@
     "building": "3",
     "floor": 3,
     "type": "classroom",
-    "verified": false,
-    "notes": "Tercer piso del Edificio 3"
+    "verified": true,
+    "notes": "Tercer piso del Edificio 3",
+    "updatedAt": "2026-10-15T16:01:42.690Z",
+    "photo": "img/salones/3/3301-mv9q7zt3.webp"
   },
   {
     "id": "3302",
