@@ -503,7 +503,9 @@
     "building": "3",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "updatedAt": "2026-10-15T16:04:42.630Z",
+    "photo": "img/salones/3/3304-mv9qbury.webp"
   },
   {
     "id": "3305",
