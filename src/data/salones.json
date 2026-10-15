@@ -1496,6 +1496,21 @@
     "photo": "img/salones/12/12bdi-mv9qtfs3.webp"
   },
   {
+    "id": "12FOT",
+    "displayName": "12FOT",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Biofotónica",
+    "tags": [
+      "lab",
+      "biofotónica"
+    ],
+    "updatedAt": "2026-10-15T16:22:35.717Z",
+    "photo": "img/salones/12/12fot-mv9qyurq.webp"
+  },
+  {
     "id": "12NEU",
     "displayName": "12NEU",
     "building": "12",
