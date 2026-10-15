@@ -461,7 +461,10 @@
     "building": "3",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Ultimo salón al fondo del segundo piso.",
+    "updatedAt": "2026-10-15T16:00:53.126Z",
+    "photo": "img/salones/3/3209-mv9q6xih.webp"
   },
   {
     "id": "3301",
