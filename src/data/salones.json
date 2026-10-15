@@ -1481,6 +1481,21 @@
     "verified": false
   },
   {
+    "id": "12BDI",
+    "displayName": "12BDI",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Biodispositivos",
+    "tags": [
+      "lab",
+      "biodispositivos"
+    ],
+    "updatedAt": "2026-10-15T16:18:23.237Z",
+    "photo": "img/salones/12/12bdi-mv9qtfs3.webp"
+  },
+  {
     "id": "12NEU",
     "displayName": "12NEU",
     "building": "12",
