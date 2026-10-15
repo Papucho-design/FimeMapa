@@ -1496,6 +1496,21 @@
     "photo": "img/salones/12/12bdi-mv9qtfs3.webp"
   },
   {
+    "id": "12BMI",
+    "displayName": "12BMI",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Biomateriales",
+    "tags": [
+      "lab",
+      "biomateriales"
+    ],
+    "updatedAt": "2026-10-15T16:24:12.965Z",
+    "photo": "img/salones/12/12bmi-mv9r0xqs.webp"
+  },
+  {
     "id": "12FOT",
     "displayName": "12FOT",
     "building": "12",
