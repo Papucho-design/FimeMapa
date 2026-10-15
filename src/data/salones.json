@@ -1587,6 +1587,22 @@
     "photo": "img/salones/12/12neu-mv9qqq67.webp"
   },
   {
+    "id": "12PLC",
+    "displayName": "12PLC",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Interfaces PLC",
+    "tags": [
+      "lab",
+      "interfaces",
+      "plc"
+    ],
+    "updatedAt": "2026-10-15T16:34:06.581Z",
+    "photo": "img/salones/12/12plc-mv9rdnsa.webp"
+  },
+  {
     "id": "12TEJ",
     "displayName": "12TEJ",
     "building": "12",
