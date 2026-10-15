@@ -341,7 +341,10 @@
     "building": "3",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "El penúltimo salón en el pasillo entre el edificio 3 y 9.",
+    "updatedAt": "2026-10-15T15:17:44.111Z",
+    "photo": "img/salones/3/3108-mv9onfl9.webp"
   },
   {
     "id": "3109",
