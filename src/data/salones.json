@@ -1481,6 +1481,21 @@
     "verified": false
   },
   {
+    "id": "12NEU",
+    "displayName": "12NEU",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Nueroingeniería",
+    "tags": [
+      "lab",
+      "neuroingeniería"
+    ],
+    "updatedAt": "2026-10-15T16:16:16.538Z",
+    "photo": "img/salones/12/12neu-mv9qqq67.webp"
+  },
+  {
     "id": "12201",
     "displayName": "12-201",
     "building": "12",
