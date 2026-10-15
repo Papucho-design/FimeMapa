@@ -523,7 +523,10 @@
     "building": "3",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Frente a las escaleras que conectan el edificio 3 con el tercer piso del edificio 9.",
+    "updatedAt": "2026-10-15T16:06:02.230Z",
+    "photo": "img/salones/3/3306-mv9qdk32.webp"
   },
   {
     "id": "3307",
