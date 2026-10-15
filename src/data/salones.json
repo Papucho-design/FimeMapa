@@ -1511,6 +1511,21 @@
     "photo": "img/salones/12/12blc-mv9r6xox.webp"
   },
   {
+    "id": "12BMC",
+    "displayName": "12BMC",
+    "building": "12",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Biomecánica",
+    "tags": [
+      "lab",
+      "biomecánica"
+    ],
+    "updatedAt": "2026-10-15T16:35:26.739Z",
+    "photo": "img/salones/12/12bmc-mv9rfdlk.webp"
+  },
+  {
     "id": "12BMI",
     "displayName": "12BMI",
     "building": "12",
