@@ -285,7 +285,10 @@
     "building": "3",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "A un lado de una maquina expendedora.",
+    "updatedAt": "2026-10-15T15:35:50.065Z",
+    "photo": "img/salones/3/3101-mv9papm9.webp"
   },
   {
     "id": "3102",
