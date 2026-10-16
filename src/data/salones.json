@@ -118,7 +118,10 @@
     "building": "1",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Entrando a fime (por la entrada principal), es el primer edificio a mano derecha, en el tercer piso",
+    "updatedAt": "2026-10-16T22:06:18.270Z",
+    "photo": "img/salones/1/1301-mvbioq0g.webp"
   },
   {
     "id": "1302",
