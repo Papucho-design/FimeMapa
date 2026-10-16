@@ -1501,6 +1501,20 @@
     "photo": "img/salones/11/11102-mvbj22f0.webp"
   },
   {
+    "id": "11103",
+    "displayName": "11-103",
+    "building": "11",
+    "floor": 1,
+    "type": "other",
+    "verified": true,
+    "name": "Comedor de trabajadores de FIME",
+    "tags": [
+      "comedor de; trabajadores"
+    ],
+    "updatedAt": "2026-10-16T22:18:19.173Z",
+    "photo": "img/salones/11/11103-mvbj466i.webp"
+  },
+  {
     "id": "11202",
     "displayName": "11-202",
     "building": "11",
