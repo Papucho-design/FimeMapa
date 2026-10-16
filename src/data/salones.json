@@ -1575,6 +1575,16 @@
     "photo": "img/salones/11/11302-mvbj5p5v.webp"
   },
   {
+    "id": "11303",
+    "displayName": "11-303",
+    "building": "11",
+    "floor": 3,
+    "type": "classroom",
+    "verified": true,
+    "updatedAt": "2026-10-16T22:20:11.283Z",
+    "photo": "img/salones/11/11303-mvbj6kp1.webp"
+  },
+  {
     "id": "11304",
     "displayName": "11-304",
     "building": "11",
