@@ -1530,7 +1530,9 @@
     "building": "11",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "updatedAt": "2026-10-16T22:18:47.235Z",
+    "photo": "img/salones/11/11203-mvbj4rzk.webp"
   },
   {
     "id": "11204",
