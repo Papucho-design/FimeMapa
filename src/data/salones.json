@@ -1487,6 +1487,20 @@
     "photo": "img/salones/11/11101-mvbj08c7.webp"
   },
   {
+    "id": "11102",
+    "displayName": "11-102",
+    "building": "11",
+    "floor": 1,
+    "type": "other",
+    "verified": true,
+    "name": "Coordinación de imagen y difusión",
+    "tags": [
+      "imagen; y difusión"
+    ],
+    "updatedAt": "2026-10-16T22:16:41.228Z",
+    "photo": "img/salones/11/11102-mvbj22f0.webp"
+  },
+  {
     "id": "11202",
     "displayName": "11-202",
     "building": "11",
