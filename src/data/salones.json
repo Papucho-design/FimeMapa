@@ -66,7 +66,10 @@
     "building": "1",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Entrando a fime (por la entrada principal), es el primer edificio a mano derecha, en el segundo piso",
+    "updatedAt": "2026-10-16T21:55:58.258Z",
+    "photo": "img/salones/1/1201-mvbibfkb.webp"
   },
   {
     "id": "1202",
