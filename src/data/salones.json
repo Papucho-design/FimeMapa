@@ -1110,9 +1110,9 @@
     "building": "7",
     "floor": 1,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-16T23:14:30.628Z",
-    "photo": "img/salones/7/7101-mvbl4fmg.webp"
+    "verified": true,
+    "updatedAt": "2026-10-16T23:15:34.497Z",
+    "photo": "img/salones/7/7101-mvbl5sxj.webp"
   },
   {
     "id": "7102",
