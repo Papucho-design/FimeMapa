@@ -1477,13 +1477,13 @@
     "displayName": "11-101",
     "building": "11",
     "floor": 1,
-    "type": "classroom",
+    "type": "other",
     "verified": true,
     "name": "Coordinación administrativa de becas y prorrogas",
     "tags": [
       "de becas; y prorrogas;"
     ],
-    "updatedAt": "2026-10-16T22:15:15.610Z",
+    "updatedAt": "2026-10-16T22:16:50.300Z",
     "photo": "img/salones/11/11101-mvbj08c7.webp"
   },
   {
