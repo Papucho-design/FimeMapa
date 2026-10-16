@@ -5,7 +5,13 @@
     "building": "1",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Entrando a fime (por la entrada principal), es mel primer edificio a mano derecha",
+    "tags": [
+      "1101;salón 1101"
+    ],
+    "updatedAt": "2026-10-16T21:52:56.560Z",
+    "photo": "img/salones/1/1101-mvbi7iwe.webp"
   },
   {
     "id": "1102",
