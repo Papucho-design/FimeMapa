@@ -1340,6 +1340,20 @@
     ]
   },
   {
+    "id": "CIS-I",
+    "displayName": "CIS-I",
+    "building": "7",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": false,
+    "name": "Cisco 1",
+    "notes": "En el cuadro interior del primer piso, arriba de planta baja",
+    "tags": [
+      "cisco"
+    ],
+    "updatedAt": "2026-10-16T22:38:51.385Z"
+  },
+  {
     "id": "8300",
     "displayName": "8-300",
     "building": "8",
