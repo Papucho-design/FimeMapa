@@ -1035,6 +1035,18 @@
     "photo": "img/salones/5/lrob-mv8ozst9.webp"
   },
   {
+    "id": "6F2A",
+    "displayName": "6F2A",
+    "building": "6",
+    "floor": 1,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio Física II Anexo",
+    "notes": "Salida del edificio",
+    "updatedAt": "2026-10-17T15:49:20.423Z",
+    "photo": "img/salones/6/6f2a-mvckns4o.webp"
+  },
+  {
     "id": "6F11",
     "displayName": "6F11",
     "building": "6",
