@@ -1184,6 +1184,17 @@
     "verified": false
   },
   {
+    "id": "AIRMM",
+    "displayName": "AIRMM",
+    "building": "6",
+    "floor": 0,
+    "type": "auditorium",
+    "verified": true,
+    "name": "Auditorio Ing. René Mario Montante Prado",
+    "notes": "Entrando desde la zona central de la facultad.",
+    "updatedAt": "2026-10-17T15:40:56.122Z"
+  },
+  {
     "id": "71A1",
     "displayName": "71A1",
     "building": "7",
