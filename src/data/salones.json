@@ -812,8 +812,9 @@
     "building": "4",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-12T07:13:43.452Z",
+    "verified": true,
+    "notes": "A mado izquierda desde las escaleras",
+    "updatedAt": "2026-10-17T15:29:03.043Z",
     "photo": "img/salones/4/4205-mv4x1fws.webp"
   },
   {
