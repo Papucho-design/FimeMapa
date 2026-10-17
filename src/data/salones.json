@@ -1490,6 +1490,17 @@
     "photo": "img/salones/7/deprma-mvcgmy5q.webp"
   },
   {
+    "id": "DIEA",
+    "displayName": "DIEA",
+    "building": "7",
+    "floor": 2,
+    "type": "office",
+    "verified": true,
+    "name": "Departamento IEA",
+    "notes": "Sección frontal del edificio, casi directo subiendo por las escaleras centrales del edificio",
+    "updatedAt": "2026-10-17T14:15:02.427Z"
+  },
+  {
     "id": "JEFFEIME",
     "displayName": "JEFFEIME",
     "building": "7",
