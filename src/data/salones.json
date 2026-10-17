@@ -1418,6 +1418,19 @@
     "photo": "img/salones/7/dadsm-mvcfs4aq.webp"
   },
   {
+    "id": "DCIM",
+    "displayName": "DCIM",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": true,
+    "name": "Departamento de Ciencias e Ingeniería de Materiales",
+    "tags": [
+      "departamento"
+    ],
+    "updatedAt": "2026-10-17T13:52:01.696Z"
+  },
+  {
     "id": "DECIEL",
     "displayName": "DECIEL",
     "building": "7",
