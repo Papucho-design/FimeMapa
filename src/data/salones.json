@@ -1058,8 +1058,10 @@
     "building": "6",
     "floor": 2,
     "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física II - Piso 2"
+    "verified": true,
+    "notes": "Laboratorio de Física II - Piso 1",
+    "updatedAt": "2026-10-17T15:45:13.232Z",
+    "photo": "img/salones/6/6f21-mvckihc3.webp"
   },
   {
     "id": "6F22",
