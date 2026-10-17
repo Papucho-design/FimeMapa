@@ -1260,8 +1260,9 @@
     "floor": 1,
     "type": "classroom",
     "verified": true,
-    "updatedAt": "2026-10-09T20:23:52.629Z",
-    "photo": "img/salones/7/7125-mv1ey1a3.webp"
+    "notes": "En el pasillo que conecta la sección frontal y trasera del edificio",
+    "updatedAt": "2026-10-17T13:36:58.303Z",
+    "photo": "img/salones/7/7125-mvcfxk8l.webp"
   },
   {
     "id": "7201",
