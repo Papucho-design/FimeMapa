@@ -1220,6 +1220,18 @@
     "photo": "img/salones/6/airmm-mvckgxdn.webp"
   },
   {
+    "id": "CGACB",
+    "displayName": "CGACB",
+    "building": "6",
+    "floor": 2,
+    "type": "office",
+    "verified": true,
+    "name": "Coordinación General Académica de Ciencias Básicas",
+    "notes": "Fondo a la derecha desde las escaleras",
+    "updatedAt": "2026-10-17T15:59:47.446Z",
+    "photo": "img/salones/6/cgacb-mvcl17vs.webp"
+  },
+  {
     "id": "ECREA",
     "displayName": "ECREA",
     "building": "6",
