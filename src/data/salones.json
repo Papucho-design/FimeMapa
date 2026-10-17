@@ -909,6 +909,16 @@
     "photo": "img/salones/4/cgaas-mvcjdnis.webp"
   },
   {
+    "id": "5-LALU",
+    "displayName": "LALU",
+    "building": "5",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": false,
+    "name": "Laboratorio de Alumbrado",
+    "updatedAt": "2026-10-17T17:48:17.865Z"
+  },
+  {
     "id": "5-LVIS",
     "displayName": "LVIS",
     "building": "5",
