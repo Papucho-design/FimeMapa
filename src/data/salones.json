@@ -1434,6 +1434,17 @@
     ]
   },
   {
+    "id": "AUTOA",
+    "displayName": "AUTO-A",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Sistemas de Control Analógico",
+    "notes": "Llegando por las escaleras frontales del edificio",
+    "updatedAt": "2026-10-17T14:35:32.110Z"
+  },
+  {
     "id": "CAUDIO",
     "displayName": "CAUDIO",
     "building": "7",
