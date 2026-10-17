@@ -1330,6 +1330,17 @@
     "photo": "img/salones/7/7205-mvchjxe8.webp"
   },
   {
+    "id": "7206",
+    "displayName": "7-206",
+    "building": "7",
+    "floor": 2,
+    "type": "classroom",
+    "verified": true,
+    "notes": "Pasillo de la sección frontal del edificio",
+    "updatedAt": "2026-10-17T14:22:52.675Z",
+    "photo": "img/salones/7/7206-mvchkllg.webp"
+  },
+  {
     "id": "7213",
     "displayName": "7-213",
     "building": "7",
