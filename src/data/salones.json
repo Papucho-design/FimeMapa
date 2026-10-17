@@ -881,6 +881,17 @@
     "photo": "img/salones/4/4213-mv4xek5y.webp"
   },
   {
+    "id": "AUDITORIO",
+    "displayName": "Auditorio",
+    "building": "4",
+    "floor": 2,
+    "type": "auditorium",
+    "verified": true,
+    "name": "Auditorio Edificio 4",
+    "notes": "A mano izquierda desde las escaleras",
+    "updatedAt": "2026-10-17T15:31:26.467Z"
+  },
+  {
     "id": "CGAAS",
     "displayName": "CGAAS",
     "building": "4",
