@@ -1154,8 +1154,12 @@
     "displayName": "6-302",
     "building": "6",
     "floor": 3,
-    "type": "classroom",
-    "verified": false
+    "type": "computer-lab",
+    "verified": true,
+    "name": "Salón de Cómputo",
+    "notes": "Desde las escaleras a mano derecha",
+    "updatedAt": "2026-10-17T16:03:31.422Z",
+    "photo": "img/salones/6/6302-mvcl60sj.webp"
   },
   {
     "id": "6303",
