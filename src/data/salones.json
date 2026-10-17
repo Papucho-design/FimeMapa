@@ -1932,6 +1932,17 @@
     ]
   },
   {
+    "id": "CEEDTE",
+    "displayName": "CEEDTE",
+    "building": "8",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Centro de Educación Técnica",
+    "notes": "Exterior del edificio, atrás del edificio 7",
+    "updatedAt": "2026-10-17T15:01:18.929Z"
+  },
+  {
     "id": "LTGYV",
     "displayName": "LTGyV",
     "building": "8",
