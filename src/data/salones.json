@@ -1699,6 +1699,18 @@
     "photo": "img/salones/7/labdis-mvcgvea2.webp"
   },
   {
+    "id": "LABVID",
+    "displayName": "LABVID",
+    "building": "7",
+    "floor": 2,
+    "type": "computer-lab",
+    "verified": true,
+    "name": "Laboratorio de Video",
+    "notes": "Exterior del edificio, sección trasera, a mano izquierda llegando por las escaleras frontales o centrales",
+    "updatedAt": "2026-10-17T14:42:35.219Z",
+    "photo": "img/salones/7/labvid-mvci9xg7.webp"
+  },
+  {
     "id": "LACOCL",
     "displayName": "LACOCL",
     "building": "7",
