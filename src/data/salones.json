@@ -746,7 +746,10 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "A un lado de la esquina de las escaleras del edificio",
+    "updatedAt": "2026-10-17T15:23:45.369Z",
+    "photo": "img/salones/4/4113-mvcjqvv1.webp"
   },
   {
     "id": "4200",
