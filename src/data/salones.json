@@ -1721,6 +1721,18 @@
     "photo": "img/salones/7/laquor-mvch5kfb.webp"
   },
   {
+    "id": "LCPI",
+    "displayName": "LCPI",
+    "building": "7",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio de Control de Procesos e Instrumentación",
+    "notes": "Fondo derecho del pasillo de la sección frontal del edificio llegando desde las escaleras centrales.",
+    "updatedAt": "2026-10-17T14:33:52.016Z",
+    "photo": "img/salones/7/lcpi-mvchyq48.webp"
+  },
+  {
     "id": "LPMAN",
     "displayName": "LPMAN",
     "building": "7",
