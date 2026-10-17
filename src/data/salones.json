@@ -1397,6 +1397,22 @@
     "photo": "img/salones/7/l-man-mvcfdhas.webp"
   },
   {
+    "id": "LPMAN",
+    "displayName": "LPMAN",
+    "building": "7",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Procesos de Soldadura",
+    "notes": "Segundo salón en el interior del edificio llegando desde las escaleras al costado del edificio 7, destras del edificio 5",
+    "tags": [
+      "manufactura",
+      "procesos de manufactura"
+    ],
+    "updatedAt": "2026-10-17T13:27:46.371Z",
+    "photo": "img/salones/7/lpman-mvcflqhg.webp"
+  },
+  {
     "id": "LVIB",
     "displayName": "LVIB",
     "building": "7",
