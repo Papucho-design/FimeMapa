@@ -669,7 +669,10 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Entrando al edificio, recto al fondo",
+    "updatedAt": "2026-10-17T15:18:48.201Z",
+    "photo": "img/salones/4/4106-mvcjkiev.webp"
   },
   {
     "id": "4107",
