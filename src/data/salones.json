@@ -801,9 +801,10 @@
     "building": "4",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-12T07:12:35.356Z",
-    "photo": "img/salones/4/4204-mv4wzzak.webp"
+    "verified": true,
+    "notes": "Esquina contraria a la de las escaleras",
+    "updatedAt": "2026-10-17T15:27:56.933Z",
+    "photo": "img/salones/4/4204-mvcjw9vh.webp"
   },
   {
     "id": "4205",
