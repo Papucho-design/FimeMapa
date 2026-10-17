@@ -1398,6 +1398,20 @@
     "photo": "img/salones/7/dadsm-mvcfs4aq.webp"
   },
   {
+    "id": "JEFFEIME",
+    "displayName": "JEFFEIME",
+    "building": "7",
+    "floor": 1,
+    "type": "office",
+    "verified": true,
+    "name": "Jefatura FEIME",
+    "notes": "En el pasillo que conecta la sección frontal y trasera del edificio",
+    "tags": [
+      "jefatura"
+    ],
+    "updatedAt": "2026-10-17T13:39:25.662Z"
+  },
+  {
     "id": "L-MAN",
     "displayName": "L-MAN",
     "building": "7",
