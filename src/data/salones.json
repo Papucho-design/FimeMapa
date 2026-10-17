@@ -1445,6 +1445,17 @@
     "updatedAt": "2026-10-17T14:35:32.110Z"
   },
   {
+    "id": "AUTOB",
+    "displayName": "AUTO-B",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Sistemas de Control Lógico",
+    "notes": "Llegando por las escaleras frontales del edificio",
+    "updatedAt": "2026-10-17T14:36:18.043Z"
+  },
+  {
     "id": "CAUDIO",
     "displayName": "CAUDIO",
     "building": "7",
