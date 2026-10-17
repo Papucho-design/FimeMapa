@@ -912,11 +912,11 @@
     "id": "5-LALU",
     "displayName": "LALU",
     "building": "5",
-    "floor": 1,
+    "floor": 0,
     "type": "laboratory",
     "verified": false,
     "name": "Laboratorio de Alumbrado",
-    "updatedAt": "2026-10-17T17:48:17.865Z"
+    "updatedAt": "2026-10-17T17:48:58.431Z"
   },
   {
     "id": "5-LVIS",
