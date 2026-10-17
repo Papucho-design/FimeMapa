@@ -830,6 +830,18 @@
     "photo": "img/salones/4/4213-mv4xek5y.webp"
   },
   {
+    "id": "CGAAS",
+    "displayName": "CGAAS",
+    "building": "4",
+    "floor": 0,
+    "type": "office",
+    "verified": true,
+    "name": "Coordinación General Académica de Administración y Sistemas",
+    "notes": "Entrada del edificio",
+    "updatedAt": "2026-10-17T15:13:28.327Z",
+    "photo": "img/salones/4/cgaas-mvcjdnis.webp"
+  },
+  {
     "id": "5-LVIS",
     "displayName": "LVIS",
     "building": "5",
