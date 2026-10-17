@@ -1008,7 +1008,9 @@
     "building": "5",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "updatedAt": "2026-10-17T19:16:42.108Z",
+    "photo": "img/salones/5/5105-mvcs2gjg.webp"
   },
   {
     "id": "5106",
