@@ -1644,6 +1644,20 @@
     "photo": "img/salones/7/deciel-mvcg75am.webp"
   },
   {
+    "id": "DEELEC",
+    "displayName": "DEELEC",
+    "building": "7",
+    "floor": 2,
+    "type": "office",
+    "verified": true,
+    "name": "Departamento de Electrónica",
+    "notes": "Pasillo sección trasera del edificio",
+    "tags": [
+      "electrónica"
+    ],
+    "updatedAt": "2026-10-17T14:55:28.260Z"
+  },
+  {
     "id": "DEPRMA",
     "displayName": "DEPRMA",
     "building": "7",
