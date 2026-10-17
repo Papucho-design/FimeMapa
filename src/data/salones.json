@@ -1364,6 +1364,21 @@
     "updatedAt": "2026-10-16T22:38:51.385Z"
   },
   {
+    "id": "LVIB",
+    "displayName": "LVIB",
+    "building": "7",
+    "floor": 0,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio de Vibraciones",
+    "notes": "Al costado del edificio 7, se llega desde las escaleras metálicas verdes detras del edificio 5",
+    "tags": [
+      "laboratorio",
+      "vibraciones"
+    ],
+    "updatedAt": "2026-10-17T13:09:49.478Z"
+  },
+  {
     "id": "8300",
     "displayName": "8-300",
     "building": "8",
