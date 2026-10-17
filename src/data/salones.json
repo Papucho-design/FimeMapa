@@ -1326,7 +1326,9 @@
     "building": "7",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "updatedAt": "2026-10-17T17:27:29.558Z",
+    "photo": "img/salones/7/7105-mvco60nq.webp"
   },
   {
     "id": "7106",
