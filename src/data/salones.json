@@ -620,6 +620,17 @@
     "photo": "img/salones/4/4100-muyxtqii.webp"
   },
   {
+    "id": "4101",
+    "displayName": "4-101",
+    "building": "4",
+    "floor": 1,
+    "type": "classroom",
+    "verified": true,
+    "notes": "Entrando al fondo a la derecha",
+    "updatedAt": "2026-10-17T15:17:02.466Z",
+    "photo": "img/salones/4/4101-mvcji8tp.webp"
+  },
+  {
     "id": "4102",
     "displayName": "4-102",
     "building": "4",
