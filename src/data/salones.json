@@ -1439,11 +1439,13 @@
     "floor": 1,
     "type": "classroom",
     "verified": true,
-    "name": "Departamento de Ciencias e Ingeniería de Materiales",
+    "name": "Departamento de Ciencia e Ingeniería de Materiales",
+    "notes": "En el pasillo lateral izquierdo si se llega a las bancas centrales desde la entrada principal",
     "tags": [
       "departamento"
     ],
-    "updatedAt": "2026-10-17T13:52:01.696Z"
+    "updatedAt": "2026-10-17T13:57:41.516Z",
+    "photo": "img/salones/7/dcim-mvcgo7e1.webp"
   },
   {
     "id": "DECIEL",
