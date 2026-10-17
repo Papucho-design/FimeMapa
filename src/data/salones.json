@@ -1649,6 +1649,18 @@
     "photo": "img/salones/7/labdis-mvcgvea2.webp"
   },
   {
+    "id": "LACOCL",
+    "displayName": "LACOCL",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio Control Clásico",
+    "notes": "Fondo derecho del pasillo de la sección frontal del edificio llegando desde las escaleras centrales.",
+    "updatedAt": "2026-10-17T14:30:16.610Z",
+    "photo": "img/salones/7/lacocl-mvchu3u8.webp"
+  },
+  {
     "id": "LACU",
     "displayName": "LACU",
     "building": "7",
