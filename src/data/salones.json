@@ -1943,6 +1943,21 @@
     "updatedAt": "2026-10-17T15:01:18.929Z"
   },
   {
+    "id": "LPGV",
+    "displayName": "LPGV",
+    "building": "8",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Plantas Generadoras de Vapor",
+    "notes": "Sección central de edificio, detrás del estacionamiento del edificio 12",
+    "tags": [
+      "vapor"
+    ],
+    "updatedAt": "2026-10-17T15:04:35.585Z",
+    "photo": "img/salones/8/lpgv-mvcj28i8.webp"
+  },
+  {
     "id": "LTGYV",
     "displayName": "LTGyV",
     "building": "8",
