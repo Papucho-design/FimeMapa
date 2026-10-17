@@ -1099,6 +1099,18 @@
     "notes": "Laboratorio de Física III - Piso 3"
   },
   {
+    "id": "6F42",
+    "displayName": "6F42",
+    "building": "6",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio Física IV Moderna",
+    "notes": "Por las escaleras metálicas",
+    "updatedAt": "2026-10-17T15:56:07.528Z",
+    "photo": "img/salones/6/6f42-mvckwhww.webp"
+  },
+  {
     "id": "6100",
     "displayName": "6100",
     "building": "6",
