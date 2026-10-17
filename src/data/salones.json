@@ -1381,6 +1381,22 @@
     "updatedAt": "2026-10-16T22:38:51.385Z"
   },
   {
+    "id": "DADSM",
+    "displayName": "DADSM",
+    "building": "7",
+    "floor": 1,
+    "type": "classroom",
+    "verified": true,
+    "name": "Departamento académico de diseño de sistemas mecánicos",
+    "notes": "Llegando por las escaleras laterales del edificio 7, primera puerta a mano derecha en el interior del edificio",
+    "tags": [
+      "departamento",
+      "sistemas mecánicos"
+    ],
+    "updatedAt": "2026-10-17T13:32:44.160Z",
+    "photo": "img/salones/7/dadsm-mvcfs4aq.webp"
+  },
+  {
     "id": "L-MAN",
     "displayName": "L-MAN",
     "building": "7",
