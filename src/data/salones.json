@@ -1059,8 +1059,9 @@
     "floor": 2,
     "type": "physics-laboratory",
     "verified": true,
+    "name": "Laboratorio Física II",
     "notes": "Laboratorio de Física II - Piso 1",
-    "updatedAt": "2026-10-17T15:45:13.232Z",
+    "updatedAt": "2026-10-17T15:45:29.131Z",
     "photo": "img/salones/6/6f21-mvckihc3.webp"
   },
   {
