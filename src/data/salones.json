@@ -658,7 +658,10 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Entrando al edificio, recto al fondo",
+    "updatedAt": "2026-10-17T15:18:31.821Z",
+    "photo": "img/salones/4/4105-mvcjk5mn.webp"
   },
   {
     "id": "4106",
