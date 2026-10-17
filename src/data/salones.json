@@ -2216,7 +2216,9 @@
     "building": "9",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "updatedAt": "2026-10-17T19:23:07.974Z",
+    "photo": "img/salones/9/9104-mvcsaqfu.webp"
   },
   {
     "id": "9105",
