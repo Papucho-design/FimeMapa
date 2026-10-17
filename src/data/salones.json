@@ -1788,6 +1788,17 @@
     "photo": "img/salones/7/lacu-mvcfpqzv.webp"
   },
   {
+    "id": "LAELAN",
+    "displayName": "LAELAN",
+    "building": "7",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio de Electrónica Analógica",
+    "notes": "Sección trasera, alrededor de la zona de bancas centrales",
+    "updatedAt": "2026-10-17T14:51:10.535Z"
+  },
+  {
     "id": "LAINMA",
     "displayName": "LAINMA",
     "building": "7",
