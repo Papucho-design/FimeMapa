@@ -856,9 +856,9 @@
     "building": "4",
     "floor": 2,
     "type": "computer-lab",
-    "verified": false,
+    "verified": true,
     "notes": "Mano derecha desde las escaleras",
-    "updatedAt": "2026-10-17T15:32:58.192Z",
+    "updatedAt": "2026-10-17T15:33:03.967Z",
     "photo": "img/salones/4/4211-mv4xb263.webp"
   },
   {
