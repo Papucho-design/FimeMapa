@@ -1492,7 +1492,7 @@
   },
   {
     "id": "CIS-2",
-    "displayName": "CISCO-2",
+    "displayName": "CISCO-II",
     "building": "7",
     "floor": 2,
     "type": "computer-lab",
@@ -1503,7 +1503,7 @@
       "cisco2",
       "2"
     ],
-    "updatedAt": "2026-10-17T14:46:43.343Z",
+    "updatedAt": "2026-10-17T14:47:00.066Z",
     "photo": "img/salones/7/cis-2-mvcif9c3.webp"
   },
   {
