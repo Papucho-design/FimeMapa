@@ -1114,14 +1114,6 @@
     "photo": "img/salones/6/6f42-mvckwhww.webp"
   },
   {
-    "id": "6100",
-    "displayName": "6100",
-    "building": "6",
-    "floor": 1,
-    "type": "laboratory",
-    "verified": false
-  },
-  {
     "id": "6201",
     "displayName": "6-201",
     "building": "6",
