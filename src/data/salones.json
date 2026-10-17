@@ -1943,6 +1943,18 @@
     "updatedAt": "2026-10-17T15:01:18.929Z"
   },
   {
+    "id": "LAAMCO",
+    "displayName": "LAAMCO",
+    "building": "8",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Ambiente Controlado",
+    "notes": "Sección central al fondo, detrás del estacionamiento del edificio 12",
+    "updatedAt": "2026-10-17T15:05:35.208Z",
+    "photo": "img/salones/8/laamco-mvcj3ini.webp"
+  },
+  {
     "id": "LPGV",
     "displayName": "LPGV",
     "building": "8",
