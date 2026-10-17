@@ -767,9 +767,10 @@
     "displayName": "4-201",
     "building": "4",
     "floor": 2,
-    "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-12T07:09:20.528Z",
+    "type": "computer-lab",
+    "verified": true,
+    "notes": "Esquina contraria a la de las escaleras",
+    "updatedAt": "2026-10-17T15:26:50.277Z",
     "photo": "img/salones/4/4201-mv4wvt5u.webp"
   },
   {
