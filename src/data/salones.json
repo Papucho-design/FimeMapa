@@ -790,8 +790,9 @@
     "building": "4",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-12T07:11:29.137Z",
+    "verified": true,
+    "notes": "Esquina contraria a la de las escaleras",
+    "updatedAt": "2026-10-17T15:27:17.878Z",
     "photo": "img/salones/4/4203-mv4wykci.webp"
   },
   {
