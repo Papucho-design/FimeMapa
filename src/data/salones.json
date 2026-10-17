@@ -1372,6 +1372,21 @@
     ]
   },
   {
+    "id": "CAUDIO",
+    "displayName": "CAUDIO",
+    "building": "7",
+    "floor": 1,
+    "type": "office",
+    "verified": true,
+    "name": "Coordinación de Audiovisual",
+    "notes": "Entrando por la entrada principal",
+    "tags": [
+      "audiovisual",
+      "coordinación"
+    ],
+    "updatedAt": "2026-10-17T13:46:52.648Z"
+  },
+  {
     "id": "CIS-I",
     "displayName": "CIS-I",
     "building": "7",
