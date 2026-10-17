@@ -1507,6 +1507,21 @@
     "photo": "img/salones/7/cis-2-mvcif9c3.webp"
   },
   {
+    "id": "CIS-3",
+    "displayName": "CISCO-3",
+    "building": "7",
+    "floor": 2,
+    "type": "computer-lab",
+    "verified": true,
+    "notes": "Pasillo sección trasera",
+    "tags": [
+      "cisco3",
+      "3"
+    ],
+    "updatedAt": "2026-10-17T14:48:10.688Z",
+    "photo": "img/salones/7/cis-3-mvcih4h8.webp"
+  },
+  {
     "id": "CIS-I",
     "displayName": "CISCO-I",
     "building": "7",
