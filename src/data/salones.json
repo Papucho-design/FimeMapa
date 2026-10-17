@@ -1397,6 +1397,21 @@
     "photo": "img/salones/7/l-man-mvcfdhas.webp"
   },
   {
+    "id": "LACU",
+    "displayName": "LACU",
+    "building": "7",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Acustica",
+    "notes": "A un lado del departamento del departamento académico de diseño de sistemas mecanicos",
+    "tags": [
+      "laboratorio",
+      "acústica"
+    ],
+    "updatedAt": "2026-10-17T13:30:03.496Z"
+  },
+  {
     "id": "LPMAN",
     "displayName": "LPMAN",
     "building": "7",
