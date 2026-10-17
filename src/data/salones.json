@@ -1522,6 +1522,21 @@
     "photo": "img/salones/7/cis-3-mvcih4h8.webp"
   },
   {
+    "id": "CIS-4",
+    "displayName": "CISCO-4",
+    "building": "7",
+    "floor": 2,
+    "type": "computer-lab",
+    "verified": true,
+    "notes": "Sección trasera, alrededor de la zona de bancas centrales",
+    "tags": [
+      "cisco4",
+      "4"
+    ],
+    "updatedAt": "2026-10-17T14:49:45.436Z",
+    "photo": "img/salones/7/cis-4-mvcij5o1.webp"
+  },
+  {
     "id": "CIS-I",
     "displayName": "CISCO-I",
     "building": "7",
