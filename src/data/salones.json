@@ -1313,7 +1313,10 @@
     "building": "7",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Pasillo de la sección frontal del edificio",
+    "updatedAt": "2026-10-17T14:21:33.950Z",
+    "photo": "img/salones/7/7204-mvchiwfq.webp"
   },
   {
     "id": "7213",
