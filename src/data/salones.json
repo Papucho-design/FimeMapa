@@ -2254,7 +2254,9 @@
     "building": "9",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "updatedAt": "2026-10-17T19:26:03.327Z",
+    "photo": "img/salones/9/9203-mvcsehls.webp"
   },
   {
     "id": "9204",
