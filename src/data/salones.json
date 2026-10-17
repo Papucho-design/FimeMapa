@@ -1070,15 +1070,6 @@
     "photo": "img/salones/6/6f11-mvckrk9e.webp"
   },
   {
-    "id": "6F12",
-    "displayName": "6F12",
-    "building": "6",
-    "floor": 1,
-    "type": "physics-laboratory",
-    "verified": false,
-    "notes": "Laboratorio de Física I"
-  },
-  {
     "id": "6F21",
     "displayName": "6F21",
     "building": "6",
