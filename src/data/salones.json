@@ -1119,7 +1119,10 @@
     "building": "6",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": false,
+    "notes": "Entrando por las escaleras metálicas recto",
+    "updatedAt": "2026-10-17T15:58:11.906Z",
+    "photo": "img/salones/6/6201-mvckz69r.webp"
   },
   {
     "id": "6202",
