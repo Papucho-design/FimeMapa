@@ -1491,6 +1491,22 @@
     "updatedAt": "2026-10-17T13:55:11.408Z"
   },
   {
+    "id": "CIS-2",
+    "displayName": "CISCO-2",
+    "building": "7",
+    "floor": 2,
+    "type": "computer-lab",
+    "verified": true,
+    "name": "Laboratorio de Redes de Conectividad Avanzada",
+    "notes": "Pasillo sección trasera",
+    "tags": [
+      "cisco2",
+      "2"
+    ],
+    "updatedAt": "2026-10-17T14:46:43.343Z",
+    "photo": "img/salones/7/cis-2-mvcif9c3.webp"
+  },
+  {
     "id": "CIS-I",
     "displayName": "CISCO-I",
     "building": "7",
