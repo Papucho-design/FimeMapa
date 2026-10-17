@@ -990,8 +990,8 @@
     "building": "5",
     "floor": 1,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-17T21:18:59.211Z",
+    "verified": true,
+    "updatedAt": "2026-10-17T21:19:45.665Z",
     "photo": "img/salones/5/5101-mvcwfpsr.webp"
   },
   {
