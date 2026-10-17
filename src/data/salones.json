@@ -1173,7 +1173,10 @@
     "building": "7",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "En el pasillo que conecta la sección frontal y trasera del edificio",
+    "updatedAt": "2026-10-17T13:41:11.344Z",
+    "photo": "img/salones/7/7106-mvcg2zof.webp"
   },
   {
     "id": "7107",
