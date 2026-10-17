@@ -1035,6 +1035,18 @@
     "photo": "img/salones/5/lrob-mv8ozst9.webp"
   },
   {
+    "id": "6F1A",
+    "displayName": "6F1A",
+    "building": "6",
+    "floor": 1,
+    "type": "classroom",
+    "verified": true,
+    "name": "Laboratorio Física I Anexo",
+    "notes": "Salida del edificio",
+    "updatedAt": "2026-10-17T15:50:11.916Z",
+    "photo": "img/salones/6/6f1a-mvckowbw.webp"
+  },
+  {
     "id": "6F2A",
     "displayName": "6F2A",
     "building": "6",
