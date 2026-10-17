@@ -1128,8 +1128,9 @@
     "floor": 1,
     "type": "classroom",
     "verified": true,
-    "updatedAt": "2026-10-16T23:15:34.497Z",
-    "photo": "img/salones/7/7101-mvbl5sxj.webp"
+    "notes": "Entrando por la entrada principal, primer salón en el pasillo a mano derecha",
+    "updatedAt": "2026-10-17T13:45:21.716Z",
+    "photo": "img/salones/7/7101-mvcg8cpo.webp"
   },
   {
     "id": "7102",
