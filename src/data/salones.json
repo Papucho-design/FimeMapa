@@ -1209,7 +1209,10 @@
     "building": "6",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Izquierda de las escaleras",
+    "updatedAt": "2026-10-17T16:07:54.519Z",
+    "photo": "img/salones/6/6307-mvclbnxq.webp"
   },
   {
     "id": "6308",
