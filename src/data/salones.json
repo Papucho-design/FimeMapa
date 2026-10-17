@@ -691,7 +691,10 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Esquina contraria de la entrada del edificio",
+    "updatedAt": "2026-10-17T15:20:55.140Z",
+    "photo": "img/salones/4/4108-mvcjn8ba.webp"
   },
   {
     "id": "4109",
