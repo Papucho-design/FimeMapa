@@ -289,6 +289,16 @@
     "photo": "img/salones/2/2205-mv4wjd14.webp"
   },
   {
+    "id": "2206",
+    "displayName": "2-206",
+    "building": "2",
+    "floor": 2,
+    "type": "classroom",
+    "verified": false,
+    "updatedAt": "2026-10-17T18:24:12.797Z",
+    "photo": "img/salones/2/2206-mvcq6yhm.webp"
+  },
+  {
     "id": "2300",
     "displayName": "2-300",
     "building": "2",
