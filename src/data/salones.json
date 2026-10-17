@@ -1357,9 +1357,9 @@
     "building": "7",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
+    "verified": true,
     "notes": "Pasillo de la sección frontal del edificio",
-    "updatedAt": "2026-10-17T14:23:33.005Z",
+    "updatedAt": "2026-10-17T14:23:37.412Z",
     "photo": "img/salones/7/7208-mvchlgcv.webp"
   },
   {
