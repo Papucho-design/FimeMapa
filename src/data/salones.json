@@ -1381,6 +1381,22 @@
     "updatedAt": "2026-10-16T22:38:51.385Z"
   },
   {
+    "id": "L-MAN",
+    "displayName": "L-MAN",
+    "building": "7",
+    "floor": 0,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Soldadura",
+    "notes": "Desde las escaleras detrás del edificio 5, primer salón con puerta en el interior del edificio 7",
+    "tags": [
+      "lman",
+      "soldadura"
+    ],
+    "updatedAt": "2026-10-17T13:21:21.351Z",
+    "photo": "img/salones/7/l-man-mvcfdhas.webp"
+  },
+  {
     "id": "LVIB",
     "displayName": "LVIB",
     "building": "7",
