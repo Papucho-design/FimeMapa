@@ -855,9 +855,10 @@
     "displayName": "4-211",
     "building": "4",
     "floor": 2,
-    "type": "classroom",
+    "type": "computer-lab",
     "verified": false,
-    "updatedAt": "2026-10-12T07:21:12.162Z",
+    "notes": "Mano derecha desde las escaleras",
+    "updatedAt": "2026-10-17T15:32:58.192Z",
     "photo": "img/salones/4/4211-mv4xb263.webp"
   },
   {
