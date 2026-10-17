@@ -1494,6 +1494,22 @@
     "photo": "img/salones/7/ctl1-mvchqdyi.webp"
   },
   {
+    "id": "CTL2",
+    "displayName": "CTL-2",
+    "building": "7",
+    "floor": 2,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Taller de robótica",
+    "notes": "Fondo derecho del pasillo de la sección frontal del edificio llegando desde las escaleras centrales.",
+    "tags": [
+      "taller robótica 2",
+      "robótica 2"
+    ],
+    "updatedAt": "2026-10-17T14:29:08.553Z",
+    "photo": "img/salones/7/ctl2-mvchsndr.webp"
+  },
+  {
     "id": "DADSM",
     "displayName": "DADSM",
     "building": "7",
