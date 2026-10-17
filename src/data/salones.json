@@ -1584,6 +1584,21 @@
     "updatedAt": "2026-10-17T14:09:21.111Z"
   },
   {
+    "id": "LAQUOR",
+    "displayName": "LAQUOR",
+    "building": "7",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Química Orgánica",
+    "notes": "Atrás de las bancas centrales",
+    "tags": [
+      "química",
+      "orgánica"
+    ],
+    "updatedAt": "2026-10-17T14:10:19.057Z"
+  },
+  {
     "id": "LPMAN",
     "displayName": "LPMAN",
     "building": "7",
