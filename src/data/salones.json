@@ -1515,6 +1515,21 @@
     "photo": "img/salones/7/l-man-mvcfdhas.webp"
   },
   {
+    "id": "L-MAT",
+    "displayName": "L-MAT",
+    "building": "7",
+    "floor": 1,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio de Pruebas Mecánicas",
+    "notes": "Pasillo lateral izquierdo si se llega a las bancas centrales desde la entrada principal",
+    "tags": [
+      "pruebas mecánicas",
+      "lmat"
+    ],
+    "updatedAt": "2026-10-17T14:04:34.991Z"
+  },
+  {
     "id": "LABDIS",
     "displayName": "LABDIS",
     "building": "7",
