@@ -1220,7 +1220,10 @@
     "building": "6",
     "floor": 3,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Izquierda de las escaleras",
+    "updatedAt": "2026-10-17T16:08:07.510Z",
+    "photo": "img/salones/6/6308-mvclby4t.webp"
   },
   {
     "id": "AIRMM",
