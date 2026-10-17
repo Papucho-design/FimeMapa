@@ -2293,6 +2293,16 @@
     "photo": "img/salones/9/9301-mvcsioky.webp"
   },
   {
+    "id": "9302",
+    "displayName": "9302",
+    "building": "9",
+    "floor": 3,
+    "type": "classroom",
+    "verified": false,
+    "updatedAt": "2026-10-17T19:29:57.032Z",
+    "photo": "img/salones/9/9302-mvcsjhzn.webp"
+  },
+  {
     "id": "9303",
     "displayName": "9-303",
     "building": "9",
