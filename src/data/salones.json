@@ -1510,6 +1510,18 @@
     "photo": "img/salones/7/ctl2-mvchsndr.webp"
   },
   {
+    "id": "CTL4",
+    "displayName": "CTL-4",
+    "building": "7",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio de electrónica de Potencia y Control Electrónico de Motores",
+    "notes": "Fondo derecho del pasillo de la sección frontal del edificio llegando desde las escaleras centrales.",
+    "updatedAt": "2026-10-17T14:32:37.160Z",
+    "photo": "img/salones/7/ctl4-mvchx4eg.webp"
+  },
+  {
     "id": "DADSM",
     "displayName": "DADSM",
     "building": "7",
