@@ -1220,7 +1220,10 @@
     "building": "7",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "name": "Tratamientos Térmicos",
+    "notes": "Pasillo lateral izquierdo si se llega a las bancas centrales desde la entrada principal",
+    "updatedAt": "2026-10-17T14:05:10.808Z"
   },
   {
     "id": "7118",
