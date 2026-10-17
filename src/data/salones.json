@@ -1388,6 +1388,21 @@
     "photo": "img/salones/7/caudio-mvcgb0je.webp"
   },
   {
+    "id": "CGAIM",
+    "displayName": "CGAIM",
+    "building": "7",
+    "floor": 1,
+    "type": "office",
+    "verified": true,
+    "name": "Coordinación General Académica de Ingeniería de Materiales",
+    "notes": "Pasillo lateral izquierdo si se llega a las bancas centrales desde la entrada principal",
+    "tags": [
+      "coordinación",
+      "ingeniería materiales"
+    ],
+    "updatedAt": "2026-10-17T13:55:11.408Z"
+  },
+  {
     "id": "CIS-I",
     "displayName": "CIS-I",
     "building": "7",
