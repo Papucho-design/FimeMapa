@@ -867,8 +867,10 @@
     "building": "4",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-12T07:22:23.343Z",
+    "verified": true,
+    "name": "Laboratorio de Innovación y Servicios Tecnológicos",
+    "notes": "Mano derecha desde las escaleras",
+    "updatedAt": "2026-10-17T15:33:45.334Z",
     "photo": "img/salones/4/4212-mv4xcl5l.webp"
   },
   {
