@@ -1434,6 +1434,22 @@
     "photo": "img/salones/7/deciel-mvcg75am.webp"
   },
   {
+    "id": "DEPRMA",
+    "displayName": "DEPRMA",
+    "building": "7",
+    "floor": 1,
+    "type": "office",
+    "verified": true,
+    "name": "Departamento de Procesos de Manufactura",
+    "notes": "Junto a las bancas centrales del edificio 7",
+    "tags": [
+      "departamento",
+      "procesos manufactura",
+      "manufactura"
+    ],
+    "updatedAt": "2026-10-17T13:50:01.500Z"
+  },
+  {
     "id": "JEFFEIME",
     "displayName": "JEFFEIME",
     "building": "7",
