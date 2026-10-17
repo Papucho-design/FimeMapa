@@ -1948,13 +1948,14 @@
     "building": "8",
     "floor": 1,
     "type": "laboratory",
-    "verified": false,
+    "verified": true,
     "name": "Laboratorio de Termodinámica de Gases y Vapores",
     "notes": "Al lado del estacionamiento que está por las canchas del polideportivo",
     "tags": [
       "lab termo gases"
     ],
-    "updatedAt": "2026-10-14T17:15:37.700Z"
+    "updatedAt": "2026-10-17T15:03:11.672Z",
+    "photo": "img/salones/8/ltgyv-mvcj0fp7.webp"
   },
   {
     "id": "9001",
