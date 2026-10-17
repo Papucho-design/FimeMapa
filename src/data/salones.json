@@ -845,8 +845,9 @@
     "building": "4",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-12T07:20:15.467Z",
+    "verified": true,
+    "notes": "A mano izquierda desde las escaleras",
+    "updatedAt": "2026-10-17T15:29:54.713Z",
     "photo": "img/salones/4/4208-mv4x9ufn.webp"
   },
   {
