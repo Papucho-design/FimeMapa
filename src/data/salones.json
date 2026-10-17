@@ -1492,17 +1492,20 @@
   },
   {
     "id": "CIS-I",
-    "displayName": "CIS-I",
+    "displayName": "CISCO-I",
     "building": "7",
     "floor": 1,
     "type": "laboratory",
-    "verified": false,
+    "verified": true,
     "name": "Cisco 1",
-    "notes": "En el cuadro interior del primer piso, arriba de planta baja",
+    "notes": "Pasillo sección trasera",
     "tags": [
-      "cisco"
+      "cisco1",
+      "cisco 1",
+      "1"
     ],
-    "updatedAt": "2026-10-16T22:38:51.385Z"
+    "updatedAt": "2026-10-17T14:45:16.901Z",
+    "photo": "img/salones/7/cis-i-mvcideb6.webp"
   },
   {
     "id": "CTL1",
