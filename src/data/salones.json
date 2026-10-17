@@ -1401,6 +1401,21 @@
     "photo": "img/salones/7/dadsm-mvcfs4aq.webp"
   },
   {
+    "id": "DECIEL",
+    "displayName": "DECIEL",
+    "building": "7",
+    "floor": 1,
+    "type": "office",
+    "verified": true,
+    "name": "Departamento de Circuitos Electricos",
+    "notes": "Llegando desde la entrada principal (frontal) del edificio, entrando al pasillo a mano derecha",
+    "tags": [
+      "departamento",
+      "circuitos eléctricos"
+    ],
+    "updatedAt": "2026-10-17T13:43:32.787Z"
+  },
+  {
     "id": "JEFFEIME",
     "displayName": "JEFFEIME",
     "building": "7",
