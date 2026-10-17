@@ -1563,6 +1563,17 @@
     "photo": "img/salones/7/lvib-mvcf0834.webp"
   },
   {
+    "id": "SALJUN",
+    "displayName": "SALJUN",
+    "building": "7",
+    "floor": 1,
+    "type": "office",
+    "verified": true,
+    "name": "Sala de Juntas",
+    "updatedAt": "2026-10-17T14:01:48.997Z",
+    "photo": "img/salones/7/saljun-mvcgti8w.webp"
+  },
+  {
     "id": "8300",
     "displayName": "8-300",
     "building": "8",
