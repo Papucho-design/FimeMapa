@@ -1105,6 +1105,22 @@
     "verified": false
   },
   {
+    "id": "71A1",
+    "displayName": "71A1",
+    "building": "7",
+    "floor": 0,
+    "type": "other",
+    "verified": true,
+    "name": "Revista Ingenierías",
+    "notes": "Al costado del edificio, detrás del edificio 5. Se llega por las escaleras verdes",
+    "tags": [
+      "revista",
+      "desarrollo editorial",
+      "editorial"
+    ],
+    "updatedAt": "2026-10-17T13:13:13.135Z"
+  },
+  {
     "id": "7101",
     "displayName": "7-101",
     "building": "7",
