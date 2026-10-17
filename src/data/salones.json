@@ -702,7 +702,10 @@
     "building": "4",
     "floor": 1,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Esquina contraria de la entrada del edificio",
+    "updatedAt": "2026-10-17T15:21:09.911Z",
+    "photo": "img/salones/4/4109-mvcjnjue.webp"
   },
   {
     "id": "4110",
