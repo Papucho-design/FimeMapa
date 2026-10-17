@@ -1090,6 +1090,18 @@
     "verified": false
   },
   {
+    "id": "6F32",
+    "displayName": "6F32",
+    "building": "6",
+    "floor": 2,
+    "type": "physics-laboratory",
+    "verified": true,
+    "name": "Laboratorio Física III",
+    "notes": "Por las escaleras metálicas",
+    "updatedAt": "2026-10-17T15:56:56.029Z",
+    "photo": "img/salones/6/6f32-mvckxjjm.webp"
+  },
+  {
     "id": "6F42",
     "displayName": "6F42",
     "building": "6",
