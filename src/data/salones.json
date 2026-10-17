@@ -1569,6 +1569,21 @@
     "photo": "img/salones/7/lacu-mvcfpqzv.webp"
   },
   {
+    "id": "LAINMA",
+    "displayName": "LAINMA",
+    "building": "7",
+    "floor": 1,
+    "type": "laboratory",
+    "verified": true,
+    "name": "Laboratorio de Ingeniería de Materiales",
+    "notes": "Atrás a la izquierda de la zona de bancas centrales",
+    "tags": [
+      "ingenieria de materiales",
+      "ingeniería materiales"
+    ],
+    "updatedAt": "2026-10-17T14:09:21.111Z"
+  },
+  {
     "id": "LPMAN",
     "displayName": "LPMAN",
     "building": "7",
