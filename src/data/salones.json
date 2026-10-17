@@ -1302,7 +1302,10 @@
     "building": "7",
     "floor": 2,
     "type": "classroom",
-    "verified": false
+    "verified": true,
+    "notes": "Casi al fondo del pasillo en la sección frontal del edificio",
+    "updatedAt": "2026-10-17T14:19:10.186Z",
+    "photo": "img/salones/7/7203-mvchftn0.webp"
   },
   {
     "id": "7204",
