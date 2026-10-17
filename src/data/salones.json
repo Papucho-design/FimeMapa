@@ -1515,6 +1515,22 @@
     "photo": "img/salones/7/l-man-mvcfdhas.webp"
   },
   {
+    "id": "LABDIS",
+    "displayName": "LABDIS",
+    "building": "7",
+    "floor": 1,
+    "type": "computer-lab",
+    "verified": true,
+    "name": "Laboratorio de Diseño",
+    "notes": "Pasillo lateral izquierdo si se llega a las bancas centrales desde la entrada principal",
+    "tags": [
+      "diseño",
+      "laboratorio"
+    ],
+    "updatedAt": "2026-10-17T14:03:17.407Z",
+    "photo": "img/salones/7/labdis-mvcgvea2.webp"
+  },
+  {
     "id": "LACU",
     "displayName": "LACU",
     "building": "7",
