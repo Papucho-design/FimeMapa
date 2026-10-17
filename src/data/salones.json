@@ -1628,6 +1628,22 @@
     "photo": "img/salones/7/lpman-mvcflqhg.webp"
   },
   {
+    "id": "LSAD",
+    "displayName": "LSAD",
+    "building": "7",
+    "floor": 2,
+    "type": "computer-lab",
+    "verified": true,
+    "name": "Laboratorio de Sistemas de Adquisición de Datos",
+    "notes": "Al fondo del pasillo de la sección frontal del edificio",
+    "tags": [
+      "datos",
+      "adquisición"
+    ],
+    "updatedAt": "2026-10-17T14:17:53.121Z",
+    "photo": "img/salones/7/lsad-mvche61t.webp"
+  },
+  {
     "id": "LVIB",
     "displayName": "LVIB",
     "building": "7",
