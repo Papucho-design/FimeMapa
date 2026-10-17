@@ -1384,8 +1384,10 @@
     "building": "7",
     "floor": 2,
     "type": "classroom",
-    "verified": false,
-    "notes": "Segundo piso del Edificio 7"
+    "verified": true,
+    "notes": "Segundo piso del Edificio 7, exterior de la sección trasera",
+    "updatedAt": "2026-10-17T14:40:53.811Z",
+    "photo": "img/salones/7/7215-mvci7rgt.webp"
   },
   {
     "id": "7222",
