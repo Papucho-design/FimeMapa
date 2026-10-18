@@ -1333,8 +1333,8 @@
     "building": "7",
     "floor": 1,
     "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-18T02:48:08.730Z",
+    "verified": true,
+    "updatedAt": "2026-10-18T02:48:15.810Z",
     "photo": "img/salones/7/7102-mvd870w3.webp"
   },
   {
