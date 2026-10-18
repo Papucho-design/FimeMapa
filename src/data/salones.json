@@ -2184,15 +2184,6 @@
     "photo": "img/salones/8/ltgyv-mvcj0fp7.webp"
   },
   {
-    "id": "9001",
-    "displayName": "9-101",
-    "building": "9",
-    "floor": 1,
-    "type": "classroom",
-    "verified": false,
-    "updatedAt": "2026-10-17T18:02:38.981Z"
-  },
-  {
     "id": "9102",
     "displayName": "9-102",
     "building": "9",
