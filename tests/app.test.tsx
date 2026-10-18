@@ -147,16 +147,16 @@ describe('panel de editores (?admin)', () => {
     mount();
     await user.type(await screen.findByLabelText('Contraseña'), 'secreta');
     await user.click(screen.getByRole('button', { name: 'Entrar' }));
-    await user.click(await screen.findByRole('button', { name: 'Editar 7-215' }));
+    await user.click(await screen.findByRole('button', { name: 'Editar 2-101' }));
 
     await user.type(screen.getByLabelText(/Referencia para llegar/), 'Junto a las escaleras');
     await user.click(screen.getByLabelText(/Ubicación verificada/));
     await user.click(screen.getByRole('button', { name: 'Guardar' }));
 
-    await waitFor(() => expect(screen.getByText(/Guardado 7-215/)).toBeTruthy());
+    await waitFor(() => expect(screen.getByText(/Guardado 2-101/)).toBeTruthy());
     const call = fetchMock.mock.calls.find((c) => c[0] === '/api/guardar')!;
     const sent = JSON.parse(call[1]!.body as string);
     expect(sent).toMatchObject({ password: 'secreta', action: 'upsert' });
-    expect(sent.room).toMatchObject({ id: '7215', verified: true, notes: expect.stringContaining('escaleras') });
+    expect(sent.room).toMatchObject({ id: '2101', verified: true, notes: expect.stringContaining('escaleras') });
   });
 });
