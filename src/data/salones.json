@@ -878,11 +878,9 @@
     "displayName": "4-213",
     "building": "4",
     "floor": 2,
-    "type": "computer-lab",
+    "type": "classroom",
     "verified": true,
-    "name": "Laboratorio de Programación Inteligente",
-    "notes": "Mano derecha desde las escaleras",
-    "updatedAt": "2026-10-17T15:34:15.496Z",
+    "updatedAt": "2026-10-23T08:13:20.170Z",
     "photo": "img/salones/4/4213-mv4xek5y.webp"
   },
   {
