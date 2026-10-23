@@ -657,11 +657,9 @@
     "displayName": "4-102",
     "building": "4",
     "floor": 1,
-    "type": "computer-lab",
+    "type": "classroom",
     "verified": true,
-    "name": "Laboratorio de Tecnologías de la Información",
-    "notes": "Entrando al edificio todo recto hasta el fondo.",
-    "updatedAt": "2026-10-17T15:15:15.934Z"
+    "updatedAt": "2026-10-23T08:08:03.362Z"
   },
   {
     "id": "4103",
