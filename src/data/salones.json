@@ -768,10 +768,9 @@
     "displayName": "4-200",
     "building": "4",
     "floor": 2,
-    "type": "computer-lab",
+    "type": "classroom",
     "verified": true,
-    "notes": "Esquina contraria a la de las escaleras",
-    "updatedAt": "2026-10-17T15:26:34.637Z",
+    "updatedAt": "2026-10-23T08:10:14.037Z",
     "photo": "img/salones/4/4200-mvcjuit1.webp"
   },
   {
